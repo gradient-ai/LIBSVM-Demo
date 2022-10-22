@@ -6,4 +6,4 @@ Launch this in Paperspace Gradient by clicking the link below.
 
 ## Launch Notebook
 
-[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/LIBSVM-Demo/blob/master/notebook.ipynb?machine=Free-GPU)
+[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)](https://console.paperspace.com/github/gradient-ai/LIBSVM-Demo/blob/master/Wine_multiclass_libsvm.ipynb?machine=Free-GPU)
